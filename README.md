@@ -1,4 +1,4 @@
-# Hash-table-and-circularly-linked-List
+# Hash table and circularly linked List
 
 ## Circular linked list supports a priority queue
 
