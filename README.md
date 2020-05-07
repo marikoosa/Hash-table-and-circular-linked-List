@@ -17,5 +17,7 @@
 
 * Using quadratic probing array size is inputted as a parameter when it’s created.
 
+![hash table](img/hashtable.png)
+
 
 
