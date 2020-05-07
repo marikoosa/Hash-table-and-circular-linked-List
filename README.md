@@ -4,10 +4,18 @@
 
 * 2D collection of “Cells” uses a stack and a queue to traverse the grid and print off it’s contents.
 
-* Push/enqueue cells are traversed in the following order: right, below, left, above.  
+* Push/enqueue cells are traversed in the following order: right, below, left, above. 
+
+![hash table](img/stack.png)
+![hash table](img/queue.png)
+
+
 
 ## Hash table is implemented using an array
 
 * Hash table stores series of strings, these words are hashed and then stored in the array based on their index (the index being the result of the hash function). 
 
 * Using quadratic probing array size is inputted as a parameter when it’s created.
+
+
+
